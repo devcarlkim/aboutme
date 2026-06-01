@@ -1,4 +1,30 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name_label">Name</string>
+    <string name="star_image_label">Star Image</string>
     <string name="name">Carlsan Kim</string>
+    <string name="bio">
+        Carlsan Kim is a passionate software engineer with over 8 years of experience
+    building scalable web and mobile applications. Born and raised in San Francisco, California,
+    he developed a love for technology at a young age, writing his first lines of code at just
+    12 years old on his father\'s old computer. He holds a Bachelor\'s degree in Computer Science
+    from Stanford University and a Master\'s degree in Software Engineering from MIT.\n\n
+
+    Throughout his career, John has worked with industry giants such as Google, Meta, and Netflix,
+    contributing to products used by millions of people worldwide. He specializes in Android
+    development, backend systems, and cloud architecture, with expertise in Kotlin, Java, Python,
+    and Go. He is a strong advocate for clean code, test-driven development, and agile
+    methodologies.\n\n
+
+    Outside of work, John is an avid rock climber, amateur photographer, and coffee enthusiast.
+    He volunteers as a coding mentor for underprivileged youth through a non-profit organization
+    called CodeForAll. He also runs a popular tech blog where he shares tutorials, career advice,
+    and industry insights, attracting over 50,000 monthly readers.\n\n
+
+    John currently lives in Austin, Texas with his wife Sarah, their two kids, and a golden
+    retriever named Byte. He is always on the lookout for exciting new challenges and
+    opportunities to make a positive impact through technology.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
